@@ -1,0 +1,9 @@
+C:\Users\Admin\Desktop\Gio\PrimeraPractica\PictureViewer\PictureViewer\bin\Debug\PictureViewer.exe.config
+C:\Users\Admin\Desktop\Gio\PrimeraPractica\PictureViewer\PictureViewer\bin\Debug\PictureViewer.exe
+C:\Users\Admin\Desktop\Gio\PrimeraPractica\PictureViewer\PictureViewer\bin\Debug\PictureViewer.pdb
+C:\Users\Admin\Desktop\Gio\PrimeraPractica\PictureViewer\PictureViewer\obj\Debug\PictureViewer.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\Gio\PrimeraPractica\PictureViewer\PictureViewer\obj\Debug\PictureViewer.Properties.Resources.resources
+C:\Users\Admin\Desktop\Gio\PrimeraPractica\PictureViewer\PictureViewer\obj\Debug\PictureViewer.csproj.GenerateResource.Cache
+C:\Users\Admin\Desktop\Gio\PrimeraPractica\PictureViewer\PictureViewer\obj\Debug\PictureViewer.exe
+C:\Users\Admin\Desktop\Gio\PrimeraPractica\PictureViewer\PictureViewer\obj\Debug\PictureViewer.pdb
+C:\Users\Admin\Desktop\Gio\PrimeraPractica\PictureViewer\PictureViewer\obj\Debug\PictureViewer.Pictures.resources
